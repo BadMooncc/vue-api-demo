@@ -1,6 +1,6 @@
 # vue-api-demo
 
-> A Vue.js project
+> vue常见api示例代码
 
 ## Build Setup
 
