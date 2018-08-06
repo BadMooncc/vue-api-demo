@@ -1,6 +1,8 @@
 # vue-api-demo
 
 > vue常见api示例代码
+> src文件夹为存放好示例代码文件
+> 项目使用vue-cli脚手架搭建
 
 ## Build Setup
 
