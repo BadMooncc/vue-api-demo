@@ -6,8 +6,8 @@
 我会不断更新一些常用的api示例代码，希望对大家有帮助
 
 ### src目录
-- filter    ——————————vue过滤器
-- directive ——————————vue自定义指令
+- filter---vue过滤器
+- directive---vue自定义指令
 
 ## Build Setup
 
