@@ -4,6 +4,11 @@
 - src文件夹为存放好示例代码文件
 - 项目使用vue-cli脚手架搭建
 
+
+### src目录
+- filter        vue过滤器
+- directive     vue自定义指令
+
 ## Build Setup
 
 ``` bash
