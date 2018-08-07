@@ -5,7 +5,13 @@ import App from './App'
 import router from './router'
 
 Vue.config.productionTip = false
-
+Vue.filter('formatTime', function (val) {
+  const date = new Date(val);
+  const hour = date.getHours();
+  const minutes = date.getMinutes();
+  const seconds = date.getSeconds();
+  return `${hour} : ${minutes} : ${seconds}`;
+});
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
