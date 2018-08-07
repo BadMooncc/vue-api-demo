@@ -1,6 +1,13 @@
 # vue-api-demo
 
-> A Vue.js project
+> vue常见api示例代码
+- src文件夹为存放好示例代码文件
+- 项目使用vue-cli脚手架搭建
+我会不断更新一些常用的api示例代码，希望对大家有帮助
+
+### src目录
+- filter---vue过滤器
+- directive---vue自定义指令
 
 ## Build Setup
 
